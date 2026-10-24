@@ -1,0 +1,34 @@
+La metodología del estudio se enfoca en analizar cómo el ruido táctil aplicado a la piel del dedo índice afecta la amplitud de los potenciales evocados visuales (PEV). Aquí te detallo los pasos clave del enfoque experimental utilizado:
+
+### 1. **Sujetos**
+- Ocho personas diestras y sanas (5 mujeres y 3 hombres) de entre 22 y 42 años participaron en el estudio.
+- Se evaluó la dominancia manual usando el cuestionario de Oldfield.
+- Todos los participantes proporcionaron consentimiento informado, siguiendo las pautas de la Declaración de Helsinki.
+
+### 2. **Estimulación Visual**
+- Se utilizó un patrón de inversión de tablero de ajedrez (8x8 cuadros, 32 blancos y 32 negros) como estímulo visual.
+- Los participantes miraban el tablero de ajedrez desde una distancia de 1 metro, y el patrón cambiaba cada medio segundo.
+- Se seleccionó este estímulo porque genera un componente P100 del PEV con una amplitud adecuada para estudiar los efectos del ruido táctil.
+
+### 3. **Estimulación Táctil**
+- Se aplicó ruido mecánico táctil en la parte medial de la piel del dedo índice derecho utilizando un estimulador mecánico.
+- El ruido táctil consistió en ruido Gaussiano de banda ancha (frecuencia de 0 a 200 Hz y fuerza de 0 a 5 mN).
+- Se mantuvo una fuerza constante de 0.1 N durante la estimulación táctil, y se aplicaron seis niveles de intensidad de ruido táctil de manera aleatoria.
+
+### 4. **Paradigma Experimental (Estimulación Multimodal)**
+- Se presentaron secuencias de 90 ensayos por cada nivel de ruido táctil.
+- Durante cada ensayo, los participantes miraban el tablero de ajedrez mientras recibían el ruido táctil en el dedo.
+- Los ensayos se realizaron con niveles de ruido nulo (ZN), óptimo (ON), y alto (HN).
+
+### 5. **Grabación y Análisis de los Potenciales Evocados Visuales**
+- Se colocaron electrodos de electroencefalograma (EEG) en las posiciones O1, O2, OZ y C3 (según el sistema 10-20) para registrar los PEV.
+- Se grabaron 60 ensayos limpios (sin artefactos) por cada nivel de ruido.
+- El análisis se centró en el componente P100 del PEV, midiendo la amplitud máxima respecto a la línea base.
+- Los datos fueron analizados utilizando el software BrainVision Analyzer, y se aplicó un análisis estadístico de ANOVA de medidas repetidas para comparar las condiciones de ruido.
+
+### 6. **Análisis Estadístico**
+- Se utilizó ANOVA de una vía para analizar las diferencias en la amplitud del P100 entre las condiciones de ruido ZN, ON y HN.
+- El análisis post-hoc incluyó corrección de Bonferroni para realizar comparaciones entre pares (ZN vs. ON, ON vs. HN, ZN vs. HN).
+- El estudio confirmó que los datos cumplían con los supuestos de normalidad y homogeneidad de varianza para realizar este análisis.
+
+Esta metodología permitió a los investigadores evaluar cómo la interacción entre el ruido táctil y los estímulos visuales influye en las respuestas neuronales visuales, específicamente en la amplitud de los PEV.

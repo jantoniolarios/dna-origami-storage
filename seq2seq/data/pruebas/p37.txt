@@ -1,0 +1,4 @@
+¿Qué es un modelo de aprendizaje automático?
+Un modelo de aprendizaje automático consiste en un archivo inteligente que se ha condicionado con un algoritmo para aprender patrones específicos en conjuntos de datos y proporcionar información y predicciones a partir de ellos. Al crear un modelo de aprendizaje automático, defines la respuesta que deseas capturar y estableces los parámetros con los que debe funcionar y de los que debe aprender el modelo.
+
+Una vez que un modelo de aprendizaje automático empieza a trabajar con datos nuevos, puedes obtener información práctica. También se emplean para extensas variedades de datos sin un objetivo conocido. Al contar con la capacidad de emplear un patrón, pueden abordar los datos aleatorizados y aun así obtener información de ellos.

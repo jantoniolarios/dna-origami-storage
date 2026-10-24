@@ -1,0 +1,7 @@
+El ADN (ácido desoxirribonucleico) es una molécula que se encuentra en el interior de las células de todos los seres vivos y que contiene la información genética que se transmite de generación en generación. 
+El ADN tiene las siguientes características:
+Su estructura es una hélice bicatenaria, es decir, está formada por dos cadenas que se enroscan entre sí. 
+Cada cadena está compuesta por una cadena principal, formada por moléculas de azúcar y fosfato, y una de cuatro bases: adenina (A), timina (T), guanina (G) y citosina (C). 
+Las bases se emparejan entre sí, formando enlaces químicos que actúan como peldaños de una escalera, manteniendo unidas las dos cadenas del ADN. 
+Casi todas las células del cuerpo de una persona tienen el mismo ADN. 
+Algunas regiones del ADN, llamadas genes, portan información que sirve como código de los rasgos individuales de una persona, como el color de ojos. 

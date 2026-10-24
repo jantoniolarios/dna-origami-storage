@@ -1,0 +1,15 @@
+En el contexto de este estudio, las siglas **ZN**, **ON**, **HN** y **Hz** tienen los siguientes significados:
+
+1. **ZN (Zero Noise)**: 
+   - **Ruido nulo**. Esta condición representa la ausencia de ruido táctil aplicado durante el experimento. Es decir, los participantes no recibieron ninguna estimulación de ruido mecánico en el dedo índice.
+
+2. **ON (Optimal Noise)**: 
+   - **Ruido óptimo**. Es el nivel intermedio de ruido táctil que produjo el mayor aumento en la amplitud de los potenciales evocados visuales (PEV), específicamente del componente P100. Este nivel es el que genera la **resonancia estocástica óptima**, donde el ruido mejora la respuesta neuronal.
+
+3. **HN (High Noise)**: 
+   - **Ruido alto**. Esta condición se refiere a un nivel elevado de ruido táctil, que fue superior al nivel óptimo. En este caso, el ruido es tan intenso que, en lugar de mejorar la respuesta visual, provoca una disminución en la amplitud del P100.
+
+4. **Hz (Hertzios)**: 
+   - Es la unidad de medida de la frecuencia. En el estudio, se utilizó ruido táctil con una banda ancha de frecuencias entre **0 y 200 Hz**, lo que significa que las vibraciones mecánicas aplicadas al dedo índice oscilaban dentro de este rango de frecuencia.
+
+En resumen, ZN es la condición sin ruido, ON es el nivel óptimo de ruido que mejora los PEV, y HN es el nivel alto de ruido que reduce la mejora de los PEV.

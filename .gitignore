@@ -1,0 +1,18 @@
+# Resultados generados por los scripts
+output/*
+!output/.gitkeep
+
+seq2seq/results/*.png
+seq2seq/model/comparisonResults.mat
+
+# MATLAB
+*.asv
+*.m~
+*.autosave
+slprj/
+codegen/
+
+# Sistema operativo
+.DS_Store
+Thumbs.db
+desktop.ini

@@ -1,0 +1,7 @@
+¿Cómo funciona machine learning?
+ 
+UC Berkeley (el enlace se encuentra fuera de ibm.com) desglosa el sistema de aprendizaje de un algoritmo de machine learning en tres partes principales.
+
+Un proceso de decisión: en general, los algoritmos de machine learning se utilizan para hacer una predicción o clasificación. Con base en algunos datos de entrada, que pueden estar etiquetados o no etiquetados, su algoritmo producirá una estimación sobre un patrón en los datos.
+Una función de error: una función de error evalúa la predicción del modelo. Si hay ejemplos conocidos, una función de error puede hacer una comparación para evaluar la precisión.
+Un proceso de optimización del modelo: si el modelo puede ajustarse mejor a los puntos de datos en el conjunto de entrenamiento, entonces los pesos se ajustan para reducir la discrepancia entre el ejemplo conocido y la estimación del modelo. El algoritmo repetirá este proceso iterativo de ''evaluar y optimizar", actualizando pesos de forma autónoma hasta que se haya cumplido un umbral de precisión. 

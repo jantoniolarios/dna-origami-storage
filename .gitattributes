@@ -1,2 +1,22 @@
-# Auto detect text files and perform LF normalization
+# Normaliza los finales de línea.
+
 * text=auto
+
+# Texto del proyecto
+*.m          text
+*.md         text
+*.csv        text
+*.tex        text
+*.txt        text
+*.gitignore  text
+
+# Formatos de oxDNA
+*.top        text
+*.conf       text
+*.seq        text
+
+# Binarios
+*.mat        binary
+*.png        binary
+*.jpg        binary
+*.pdf        binary

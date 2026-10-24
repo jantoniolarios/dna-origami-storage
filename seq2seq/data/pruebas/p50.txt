@@ -1,0 +1,19 @@
+Objetivo: 
+La Ingeniería Biomédica es una rama multidisciplinaria que aplica conocimientos, principios y técnicas de las ingenierías y la administración para la solución de problemas y necesidades del sector salud, a través de la implementación de dispositivos, métodos o sistemas. Sus principales campos de acción son el diseño, construcción, evaluación y mantenimiento de dispositivos médicos, prótesis, equipos de rehabilitación y gestión hospitalaria.
+
+Perfil del egresado: 
+El egresado de Ingeniería Biomédica es un profesional de la tecnología médica
+que cuenta con conocimientos acerca de:
+
+Biomecánica, pues conoce las estructuras y funcionamiento mecánico del cuerpo humano para su modelado, modificación o reproducción de forma artificial.
+Procesamiento de señales electrofisiológicas, las cuales son utilizadas para estudiar y comprender los fenómenos fisiológicos del cuerpo en condiciones patológicas y no patológicas.
+Instrumentación médica, ya que sabe el principio de funcionamiento de los equipos médicos, permitiéndole desarrollar y mejorar herramientas o técnicas de detección, diagnóstico, tratamiento, pronóstico y prevención en el sector salud.
+Gestión, administración, mantenimiento y evaluación de los equipos y servicios médicos.
+Campo laboral: 
+Debido a la calidad de sus conocimientos, el Ingeniero Biomédico puede desarrollarse en diferentes campos, como son:
+
+Instituciones de Salud Pública o Privada: en la detección, diagnóstico, tratamiento, prevención y pronóstico de patologías.
+Hospitales generales y de especialidades: en el mantenimiento, operación y calibración de equipos e instalaciones.
+La investigación: desarrollo de prototipos y herramientas, rediseño de equipos, implementación de algoritmos, programas o interfaces, análisis de señales e imágenes, diseño de prótesis, órtesis y sistemas de rehabilitación, entre otros.
+La gestión hospitalaria, la cual incluye cuestiones de seguridad, higiene, normas, inventarios, capacitación, planeación de servicios, distribución, y asesoría, por mencionar algunas.
+La docencia, para la formación de recursos humanos a nivel licenciatura, maestría o doctorado.

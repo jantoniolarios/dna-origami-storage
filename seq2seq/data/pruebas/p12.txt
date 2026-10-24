@@ -1,0 +1,8 @@
+Este artículo investiga cómo el ruido táctil mecánico (aplicado a la piel del dedo índice) puede influir en las respuestas visuales del cerebro, específicamente en los potenciales evocados visuales (PEV). Este fenómeno se conoce como **resonancia estocástica multisensorial**, en el que un nivel óptimo de "ruido" de una modalidad sensorial (en este caso, táctil) mejora la respuesta cerebral a estímulos en otra modalidad (visual). El estudio encontró que cuando se aplica un ruido táctil de nivel intermedio, la amplitud del componente P100 de los PEV, que ocurre aproximadamente 100 milisegundos después de un estímulo visual, aumenta de manera significativa.
+
+Los principales hallazgos incluyen:
+1. **Resonancia estocástica multisensorial**: La relación entre la cantidad de ruido táctil aplicado y la amplitud de los PEV tiene una forma de curva en "U invertida", donde un nivel intermedio de ruido mejora los PEV, pero niveles más altos de ruido disminuyen esta mejora.
+2. **Optimización del rendimiento sensorial**: El estudio sugiere que el ruido táctil puede mejorar la percepción visual, lo que podría tener aplicaciones en rehabilitación visual y en el tratamiento de desórdenes sensoriales.
+3. **Variabilidad individual**: Los sujetos mostraron diferencias individuales en la sensibilidad al ruido, lo que sugiere que la efectividad del ruido táctil puede variar de persona a persona.
+
+Este estudio aporta nuevas perspectivas sobre cómo diferentes modalidades sensoriales pueden interactuar y mejorar el procesamiento de señales sensoriales en el cerebro humano.

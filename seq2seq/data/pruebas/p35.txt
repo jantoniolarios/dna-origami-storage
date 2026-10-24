@@ -1,0 +1,6 @@
+Un plásmido es una molécula de ADN circular que se encuentra en las bacterias y otros organismos microscópicos. Se trata de un anillo de ADN que se replica de forma independiente al ADN cromosómico. 
+Los plásmidos son esenciales en la biología molecular y tienen un papel fundamental en la ingeniería genética: 
+Son utilizados como vectores de clonación para producir copias idénticas de fragmentos de ADN. 
+Permiten introducir un gen de interés en un plásmido para producir grandes cantidades de ese gen. 
+Son importantes para la resistencia bacteriana a los antibióticos. 
+Existen diferentes tipos de plásmidos, entre ellos: Plásmidos de fertilidad, Plásmidos de resistencia, Col-plásmidos, Plásmidos degradativos, Plásmidos virulentos. 
